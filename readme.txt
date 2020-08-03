@@ -3,7 +3,7 @@
 Author:zhujx
 Create:2020/7/29
 
-
+Git has a mutable index called stage.
 
 目前已经学习到“视频9-中断实验”						--2020/7/29
 
