@@ -10,7 +10,7 @@ Git has a mutable index called stage.
 “视频11-keyfiltertimer按键消抖实验”					--2020/8/5		待验证
 "视频12-highperci_delay高精度延时实验“				--2020/8/6		待验证
 
-
+注意：13的Makefile 和 14的Makefile是不一样的，不能将14的Makefile用在13上。
 
 
 
